@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.2",
+	"FriendlyName": "InteractionSystem",
+	"Description": "To Enable Outline Create a PostProcessingVolume, check \"Infinite Extent\" and set PP_OutlineEffect as PostProcessingMaterial. Under ProjectSettings/Render/Postprocessing set \"Custom Depth-Stencil Pass\" to \"Enabled with Stencil\". To See UAssets enable Engine Content not Plugin Content in Viewer",
+	"Category": "Other",
+	"CreatedBy": "Jonas",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "4.19.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "InteractionSystem",
+			"Type": "DeveloperTool",
+			"LoadingPhase": "Default"
+		}
+	]
+}
